@@ -1,0 +1,1 @@
+Ce projet git permet de mettre en application les différents concepts vus lors des 2 premiers chapitres
