@@ -1,2 +1,6 @@
 J'adore l'idée de pouvoir contribuer si facilement au code écrit par d'autre personnes.
 Les projets open-source n'apportent vraiment que du positif.
+
+J'adore explorer les différents scripts des sites et voir comment ils sont fait
+Par exemple, j'ai joint un fichier javascript qui permet de descendre d'une page entière avec la mollette de la souris.
+Il vient d'ici : https://github.com/RapidtSoftware/FullScroll
